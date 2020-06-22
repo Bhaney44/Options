@@ -31,6 +31,9 @@ print('variance')
 print(df.var())
 print("-----")
 #Co-Variance
+##In probability theory and statistics, covariance is a measure of the joint variability of two random variables.
+##If the greater values of one variable mainly correspond with the greater values of the other variable,
+##and the same holds for the lesser values, the covariance is positive.
 print('co-variance')
 print(df.cov())
 
